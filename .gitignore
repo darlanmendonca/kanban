@@ -6,4 +6,9 @@ node_modules/
 dist/
 
 # env
-*.env
+.env
+.env.development
+.env.production
+
+# Logs
+*.log
