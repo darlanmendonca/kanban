@@ -1,7 +1,7 @@
 {
   "name": "kanban",
   "version": "1.0.0",
-  "description": "A Kanban app example, bult-in using JS stack for server and client side",
+  "description": "A Kanban app example, bult-in using JS stack",
   "main": "index.js",
   "scripts": {
     "dev": "NODE_ENV=development nodemon src/index.ts",
